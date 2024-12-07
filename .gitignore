@@ -6,3 +6,4 @@ test/**/dist
 test/**/actual.js
 yarn.lock
 pnpm-lock.yaml
+package-lock.json
